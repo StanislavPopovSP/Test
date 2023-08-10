@@ -1,1 +1,1 @@
-print('Привет Папа')
+print('Paris')
