@@ -1,2 +1,1 @@
-print('Method')
-print('hi')
+print('New test
