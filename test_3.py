@@ -1,1 +1,2 @@
 print('Son')
+print('Завтрак')
