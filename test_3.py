@@ -1,1 +1,1 @@
-print('New test')
+print('Добавил изменения
