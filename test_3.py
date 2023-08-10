@@ -1,1 +1,2 @@
 print('Method')
+print('hi
