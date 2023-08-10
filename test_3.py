@@ -1,1 +1,1 @@
-print('Солнце')
+print('Son')
