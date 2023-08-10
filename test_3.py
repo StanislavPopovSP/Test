@@ -1,3 +1,1 @@
-print('Son')
-print('Завтрак')
-print('Обед')
+print('Method')
