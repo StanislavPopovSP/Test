@@ -1,2 +1,2 @@
 print('Method')
-print('hi
+print('hi')
