@@ -1,1 +1,1 @@
-print('Method
+print('Method')
